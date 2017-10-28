@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <!--     리뷰 등록 게시판 -->
+    이거 진짜 되나용??? 한번 제대로 확인해보려고합니다 ㅋㅋㅋ 
 </body>
 </html>
