@@ -17,8 +17,6 @@ $(function(){
 		//DB 비밀번호랑 들어온 비밀번호랑 비교해서 제어문 만들어라 
 		
 		$('#delForm').submit(); 
-		
-		
 	});
 });
 </script>

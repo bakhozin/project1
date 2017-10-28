@@ -171,7 +171,7 @@
     <div class="container">
       <div class="row">
         <div class="page-header">
-          <h2>DD SHOP 로그인</h2>
+          <h2>GIT 허브 check gogo</h2>
         </div>
         <div class="col-md-6">
           <div class="login-box well">
