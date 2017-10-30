@@ -102,7 +102,7 @@
 			      <option>가장 존경하는 인물은?</option>
 			      <option>가장 친한 친구의 이름은?</option>
 			      <option>가장 좋아하는 음식은?</option>
-			      <option>가장 친한 친구의 이름은?</option>
+			      <option>commit test test test ~!~!~!~!</option>
 			     </select>
                 
               </div>
