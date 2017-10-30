@@ -26,7 +26,7 @@
 </script>
 </head>
 <body>  
-<!--   부트스트랩에서 제공하는 navbar라는 클래스의 구성요소를 이용해서 만들었다. -->
+<!--  git체크좀해보겠다. -->
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
 			<div class="navbar-header">
